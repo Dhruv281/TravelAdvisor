@@ -10,7 +10,7 @@ iii. Open Weather Map API from RapidAPI
 i. Download Zip and unzip it.\
 ii. Open the extracted folder in the IDE.\
 iii. Open the terminal and direct to extracted folder.\
-iv. run ```npm i && npm start``` to start the development server\
+iv. run ```npm i && npm start``` to start the development server
 
 # Note: 
 You need to add .env file which will be having API keys for all 3 API used.
