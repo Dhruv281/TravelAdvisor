@@ -4,7 +4,7 @@ Build and Deploy an advanced Travel Companion Application using Google Maps. Wit
 # APIs used are: 
 i. Google Maps API\
 ii. Travel Advisor API from RapidAPI\
-iii. Open Weather Map API from RapidAPI\
+iii. Open Weather Map API from RapidAPI
 
 # Code Compiling and running application
 i. Download Zip and unzip it.\
@@ -13,4 +13,4 @@ iii. Open the terminal and direct to extracted folder.\
 iv. run ```npm i && npm start``` to start the development server\
 
 # Note: 
-You need to add .env file which will be having API keys for all 3 API used.\
+You need to add .env file which will be having API keys for all 3 API used.
